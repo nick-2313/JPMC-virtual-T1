@@ -1,2 +1,2 @@
-# JPMC-virtual-T1
-virtual internship 
+# JPMC Task 1
+Starter repo for task 1 of the JPMC software engineering program
